@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=L DRV IN1 Pin=J2-3
+Removed Pin From Net: NetName=L DRV IN2 Pin=J2-4
+Removed Pin From Net: NetName=L DRV NSLP Pin=J2-5
+Removed Pin From Net: NetName=R DRV NSLP Pin=J2-6
+Added Pin To Net: NetName=R DRV NSLP Pin=J2-3
+Added Pin To Net: NetName=L DRV NSLP Pin=J2-4
+Added Pin To Net: NetName=L DRV IN1 Pin=J2-5
+Added Pin To Net: NetName=L DRV IN2 Pin=J2-6

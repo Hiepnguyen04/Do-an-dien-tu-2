@@ -1,0 +1,78 @@
+Added Component: Designator=C17(C_0805)
+Added Component: Designator=C32(C_0805)
+Added Component: Designator=U5(DRV8833PWPR)
+Added Component: Designator=U6(TPS54202DDCR)
+Added Component: Designator=U7(DRV8833PWPR)
+Added Component: Designator=U8(TPS54202DDCR)
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=+5V Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=+5V Pin=C32-2
+Added Pin To Net: NetName=L DRV NSLP Pin=U5-1
+Added Pin To Net: NetName=L DRV AOUT1 Pin=U5-2
+Added Pin To Net: NetName=L DRV AISEN Pin=U5-3
+Added Pin To Net: NetName=L DRV AOUT2 Pin=U5-4
+Added Pin To Net: NetName=L DRV BOUT2 Pin=U5-5
+Added Pin To Net: NetName=L DRV BISEN Pin=U5-6
+Added Pin To Net: NetName=L DRV BOUT1 Pin=U5-7
+Added Pin To Net: NetName=L DRV NFLT Pin=U5-8
+Added Pin To Net: NetName=L DRV IN1 Pin=U5-9
+Added Pin To Net: NetName=L DRV IN2 Pin=U5-10
+Added Pin To Net: NetName=L DRV VCP Pin=U5-11
+Added Pin To Net: NetName=+5V Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=L DRV VINT Pin=U5-14
+Added Pin To Net: NetName=L DRV IN2 Pin=U5-15
+Added Pin To Net: NetName=L DRV IN1 Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U5-GND
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=BUCK1 SW Pin=U6-2
+Added Pin To Net: NetName=+VBAT Pin=U6-3
+Added Pin To Net: NetName=BUCK1 FB Pin=U6-4
+Added Pin To Net: NetName=BUCK1 BOOT Pin=U6-6
+Added Pin To Net: NetName=R DRV NSLP Pin=U7-1
+Added Pin To Net: NetName=R DRV AOUT1 Pin=U7-2
+Added Pin To Net: NetName=R DRV AISEN Pin=U7-3
+Added Pin To Net: NetName=R DRV AOUT2 Pin=U7-4
+Added Pin To Net: NetName=R DRV BOUT2 Pin=U7-5
+Added Pin To Net: NetName=R DRV BISEN Pin=U7-6
+Added Pin To Net: NetName=R DRV BOUT1 Pin=U7-7
+Added Pin To Net: NetName=R DRV NFLT Pin=U7-8
+Added Pin To Net: NetName=R DRV IN1 Pin=U7-9
+Added Pin To Net: NetName=R DRV IN2 Pin=U7-10
+Added Pin To Net: NetName=R DRV VCP Pin=U7-11
+Added Pin To Net: NetName=+5V Pin=U7-12
+Added Pin To Net: NetName=GND Pin=U7-13
+Added Pin To Net: NetName=R DRV VINT Pin=U7-14
+Added Pin To Net: NetName=R DRV IN2 Pin=U7-15
+Added Pin To Net: NetName=R DRV IN1 Pin=U7-16
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U7-GND
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=BUCK2 SW Pin=U8-2
+Added Pin To Net: NetName=+VBAT Pin=U8-3
+Added Pin To Net: NetName=BUCK2 FB Pin=U8-4
+Added Pin To Net: NetName=BUCK2 BOOT Pin=U8-6

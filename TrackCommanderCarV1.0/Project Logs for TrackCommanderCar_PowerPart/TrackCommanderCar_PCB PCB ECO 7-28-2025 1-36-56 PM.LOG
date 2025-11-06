@@ -1,0 +1,6 @@
+Added Component: Designator=L2(INDUCTOR 1040)
+Added Component: Designator=L3(INDUCTOR 1040)
+Added Pin To Net: NetName=BUCK1 SW Pin=L2-1
+Added Pin To Net: NetName=+5V Pin=L2-2
+Added Pin To Net: NetName=BUCK2 SW Pin=L3-1
+Added Pin To Net: NetName=+3V3 Pin=L3-2

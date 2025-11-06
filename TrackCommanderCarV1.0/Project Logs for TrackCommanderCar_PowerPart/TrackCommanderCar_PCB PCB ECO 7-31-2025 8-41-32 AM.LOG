@@ -1,0 +1,9 @@
+Added Component: Designator=C45(C_0603)
+Added Component: Designator=C46(C_0603)
+Added Component: Designator=C47(C_0603)
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=IR1 C Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=IR2 C Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=IR3 C Pin=C47-2

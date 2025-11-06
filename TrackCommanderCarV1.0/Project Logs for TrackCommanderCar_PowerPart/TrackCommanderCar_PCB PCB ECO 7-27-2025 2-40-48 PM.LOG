@@ -1,0 +1,15 @@
+Added Component: Designator=J1(USB_C_16Pin)
+Added Pin To Net: NetName=GND Pin=J1-A1_B12
+Added Pin To Net: NetName=+5V USB Pin=J1-A4_B9
+Added Pin To Net: NetName=USB CC1 Pin=J1-A5
+Added Pin To Net: NetName=USB_D_P Pin=J1-A6
+Added Pin To Net: NetName=USB_D_N Pin=J1-A7
+Added Pin To Net: NetName=GND Pin=J1-B1_A12
+Added Pin To Net: NetName=+5V USB Pin=J1-B4_A9
+Added Pin To Net: NetName=USB CC2 Pin=J1-B5
+Added Pin To Net: NetName=USB_D_P Pin=J1-B6
+Added Pin To Net: NetName=USB_D_N Pin=J1-B7
+Added Pin To Net: NetName=USB SHIELD Pin=J1-S1
+Added Pin To Net: NetName=USB SHIELD Pin=J1-S2
+Added Pin To Net: NetName=USB SHIELD Pin=J1-S3
+Added Pin To Net: NetName=USB SHIELD Pin=J1-S4

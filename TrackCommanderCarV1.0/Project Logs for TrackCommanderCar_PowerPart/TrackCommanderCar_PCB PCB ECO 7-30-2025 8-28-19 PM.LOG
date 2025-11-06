@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=U4-12
+Removed Pin From Net: NetName=GND Pin=U4-13
+Added Component: Designator=C43(C_0603)
+Added Component: Designator=C44(C_0603)
+Added Component: Designator=J9(JST PH_2_2.0)
+Added Component: Designator=R39(R_0603)
+Added Component: Designator=R40(R_0603)
+Added Component: Designator=R41(R_0603)
+Added Component: Designator=R42(R_0603)
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=+VBAT Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R40-2
+Added Pin To Net: NetName=NetU3_1 Pin=U3-1
+Added Pin To Net: NetName=NetU3_1 Pin=U3-8
+Added Pin To Net: NetName=BVS Pin=C44-2
+Added Pin To Net: NetName=BVS Pin=J9-1
+Added Pin To Net: NetName=BVS Pin=R41-1
+Added Net: Name=BVS
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=R39-2
+Added Pin To Net: NetName=NetC43_2 Pin=R40-1
+Added Pin To Net: NetName=NetC43_2 Pin=U4-12
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=NetR42_2 Pin=U4-13
+Added Net: Name=NetR42_2
+Added Pin To Net: NetName=OUTD Pin=R41-2
+Added Pin To Net: NetName=OUTD Pin=R42-1
+Added Pin To Net: NetName=OUTD Pin=U4-14
+Added Net: Name=OUTD

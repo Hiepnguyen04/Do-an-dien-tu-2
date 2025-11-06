@@ -1,0 +1,3 @@
+Added Component: Designator=L1(INDUCTOR 1040)
+Added Pin To Net: NetName=+5V SYS Pin=L1-1
+Added Pin To Net: NetName=IP LX Pin=L1-2
