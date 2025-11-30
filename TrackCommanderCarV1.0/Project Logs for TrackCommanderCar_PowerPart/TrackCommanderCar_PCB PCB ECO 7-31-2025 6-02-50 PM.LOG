@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=IR SW Pin=J2-6
-Removed Pin From Net: NetName=IR OUT1 Pin=J2-7
-Removed Pin From Net: NetName=R DRV NSLP Pin=J4-5
-Removed Pin From Net: NetName=IR OUT3 Pin=J4-7
-Added Pin To Net: NetName=R DRV NSLP Pin=J2-6
-Added Pin To Net: NetName=IR SW Pin=J2-7
-Added Pin To Net: NetName=IR OUT3 Pin=J4-5
-Added Pin To Net: NetName=IR OUT1 Pin=J4-7
