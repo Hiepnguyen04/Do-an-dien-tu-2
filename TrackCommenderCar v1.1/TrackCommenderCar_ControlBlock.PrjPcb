@@ -1232,7 +1232,7 @@ ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 
 [NetInfos]
-Net1=NetName=+5V USB|NetColor=clBlue
+Net1=NetName=+5V USB|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
